@@ -68,6 +68,6 @@ Verilog와 Basys3를 이용한 전자레인지 기능 구현
 
 <h2 id="-demo">🎥 동작 데모 (Demo)</h2>
 <p align="center">
-  <i>여기에 동작하는 GIF 이미지나 데모 영상 링크를 추가하세요!</i><br>
+ 
  (https://youtu.be/kJlUGPp_sK8)
 </p>
