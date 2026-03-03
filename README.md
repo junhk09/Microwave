@@ -1,7 +1,7 @@
 # Microwave
 Verilog와 Basys3를 이용한 전자레인지 기능 구현
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF/?text=Microwave+Controller+Project" alt="Project Banner">
+ 
   
   <h1> 🎛️ Basys3 Microwave Controller </h1>
   <p>
