@@ -14,14 +14,7 @@
 
 <br/>
 
-<details>
-  <summary><b>📚 목차 보기 (클릭!)</b></summary>
-  <ol>
-    <li><a href="#-project-overview">프로젝트 개요</a></li>
-    <li><a href="#-features">주요 기능</a></li>
-    <li><a href="#-hardware-setup">하드웨어 구성</a></li>
-  </ol>
-</details>
+
 
 <hr/>
 
